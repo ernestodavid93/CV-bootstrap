@@ -1,0 +1,30 @@
+.imag{
+    background-color: black;
+    background-size: cover;
+    width: 100%;
+    height: 25vh;
+    margin-top: -3rem;
+    
+}
+
+.tex p{
+    align-content: center;
+    font-size: 1.5rem;
+    font-stretch: expanded;
+    border-color: black;
+}
+
+.logos a{
+    font-size: 2rem;
+    color: black;
+}
+
+.foo{
+    margin-top: 3rem;
+}
+
+.p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-decoration: none;
+}
